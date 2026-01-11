@@ -8,3 +8,5 @@ token.env
 __pycache__/
 *.pyc
 .env
+token.env
+script.bat
