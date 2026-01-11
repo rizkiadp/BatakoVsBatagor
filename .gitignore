@@ -1,0 +1,10 @@
+# secrets
+token.env
+
+# local scripts
+*.bat~
+
+# python
+__pycache__/
+*.pyc
+.env
