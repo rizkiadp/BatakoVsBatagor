@@ -1,0 +1,6 @@
+tree 1389cb8a3896aac49a6029bddfe4963fbaff017c
+parent fc75f61e5940fc41553d827c14dbeca04ec4fafd
+author Rizki <rizkiadp@students.amikom.ac.id> 1768157303 +0700
+committer Rizki <rizkiadp@students.amikom.ac.id> 1768157303 +0700
+
+add Pipfile for python 3.9 and fix css
